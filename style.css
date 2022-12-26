@@ -1,0 +1,27 @@
+*{
+    padding: 10px;
+    margin: 0px;
+    
+}
+
+h1{
+    text-align: center;
+}
+
+#game-board{
+    display: flex;
+    margin: auto;
+    background-color: aqua;
+    width: 500px;
+    height: 500px;
+    outline: black 5px solid;
+
+
+}
+
+.body{
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    margin-left: 500px;
+}
